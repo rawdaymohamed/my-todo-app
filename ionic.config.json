@@ -1,0 +1,8 @@
+{
+  "name": "My-todo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "67442e5f"
+}
